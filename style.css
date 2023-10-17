@@ -1,0 +1,82 @@
+/* Text */
+h1 {
+    font-family: serif;
+}
+h2 {
+    font-family: sans-serif;
+}
+p {
+    font-family: sans-serif;
+}
+
+/* Left side navbar */
+.logo {
+    float: left;
+    font-family: sans-serif;
+    background-color: #E0E7E9;
+    overflow: hidden;
+  }
+  .logo a {
+    float: right;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+/* Right side navbar */
+.topnav {
+    font-family: sans-serif;
+    background-color: #E0E7E9;
+    overflow: hidden;
+  }
+.topnav a {
+    float: right;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+.topnav a.active {
+    background-color: #E0E7E9;
+    color: black;
+  }
+
+/* Hero */
+.hero-image {
+    background-color: #E0E7E9;
+    padding: 150px;
+}
+
+/* Buttons */
+button {
+    background-color: #6D7A89;
+    color: white;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+/* Main Content */
+.main-content {
+    padding: 50px;
+    padding-top: 15px;
+}
+.case-study {
+    background-color: #E0E7E9;
+    padding: 30px;
+}
+
+/* Footer */
+footer {
+    background-color: #364649;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
